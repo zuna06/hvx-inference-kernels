@@ -1,0 +1,4 @@
+# executables and build dirs
+*.o
+*.exe
+build/
